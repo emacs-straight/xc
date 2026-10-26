@@ -1,0 +1,2 @@
+;; Generated package description from xc.el  -*- mode: lisp-data; no-byte-compile: t; lexical-binding:t -*-
+(define-package "xc" "20260719.1.0.20260719.0" "Emacs interface for xc" '((emacs "28.1") (compat "29")) :commit "ff35462614b6d4ae627cfc1e3b21879b84048c1d" :authors '(("Ryan Prior" . "rprior@protonmail.com")) :maintainer '("Ryan Prior" . "rprior@protonmail.com") :keywords '("processes" "docs") :url "https://codeberg.org/ryanprior/xc.el")
